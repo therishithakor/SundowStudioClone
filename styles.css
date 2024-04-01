@@ -1,8 +1,12 @@
+@font-face {
+    font-family: neue;
+    src: url(./neue-haas-grotesk-display-pro-cufonfonts/NeueHaasDisplayMediu.ttf);
+}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Neue Haas Grotesk Display Pro";
+    font-family: neue;
 }
 
 html,body{
